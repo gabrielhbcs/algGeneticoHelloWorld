@@ -1,6 +1,6 @@
 import random
 
-src = "abcdefghijklmnopqrstuwxyzABCDEFGHIJKLMNOPQRSTUWXYZ 1234567890!@#$%¨&*()-=_+"
+src = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890!@#$%¨&*()-=_+/;:?.,><][}{"
 objetivo = "Hello World!"
 
 def gerarPalavra():
